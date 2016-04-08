@@ -11,3 +11,7 @@ dd
 sdddd88888
 
 ####adding copy right
+
+how to contribute
+
+
